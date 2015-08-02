@@ -1,9 +1,9 @@
 {
 	"name": "utga",
-	"description": "A minimal D application.",
-	"copyright": "Copyright © 2015, zunkree",
+	"description": "A very small TGA image format library.",
+	"copyright": "Copyright © 2015, Alexander Milushev <zunkree@gmail.com>",
 	"license": "MIT",
-	"authors": ["zunkree"],
+	"authors": ["Alexander Milushev <zunkree@gmail.com>"],
 	"targetType": "library",
 	"dependencies": {
 	}
